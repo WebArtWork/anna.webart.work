@@ -19,3 +19,6 @@ Live site: https://anna.webart.work
 
 ## Notes
 The page explicitly states that the number of rooms, room categories, amenities, and prices for accommodation are not yet confirmed and should be checked directly with the venue. It also notes that exact hall floor area, seating layouts, dance floor, and sound/lighting equipment are to be confirmed during event planning, and that all photos are illustrative rather than actual venue photos.
+
+## Forms
+Live HotelOS forms (hotel `kp-anna`): `event-request` (former contact/planner section; event type select, guest count goes into the message) and `stay-request` (after the accommodation section). Phone is the only required field.
